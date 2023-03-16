@@ -1,1 +1,1 @@
-alias project
+ var local 
